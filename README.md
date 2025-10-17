@@ -1,1 +1,1 @@
-This line was added remotely to simulate conflict.
+This line was added remotely from GitHub.
